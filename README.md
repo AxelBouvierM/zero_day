@@ -1,1 +1,1 @@
-Github Project
+Project
